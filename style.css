@@ -1,0 +1,15 @@
+table,
+th,
+td {
+    text-align: center;
+    border: solid 1px #333;
+    padding: 2px 4px;
+    font: 15px Verdana;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+th {
+    font-weight: bold;
+}
